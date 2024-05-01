@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "931258665733",
+    "project_id": "db-birria",
+    "storage_bucket": "db-birria.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931258665733:android:31f49848fa747b255b456c",
+        "android_client_info": {
+          "package_name": "com.example.birriadon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvrBMOE93nTj2OgMkPwRibhI8DuTZgJhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
